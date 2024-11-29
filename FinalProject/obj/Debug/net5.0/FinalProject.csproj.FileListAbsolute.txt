@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\FINAL_PROJECT\FinalProject\bin\Debug\net5.0\FinalProject.exe
+C:\Users\LENOVO\Desktop\FINAL_PROJECT\FinalProject\bin\Debug\net5.0\FinalProject.deps.json
+C:\Users\LENOVO\Desktop\FINAL_PROJECT\FinalProject\bin\Debug\net5.0\FinalProject.runtimeconfig.json
+C:\Users\LENOVO\Desktop\FINAL_PROJECT\FinalProject\bin\Debug\net5.0\FinalProject.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\FINAL_PROJECT\FinalProject\bin\Debug\net5.0\FinalProject.dll
+C:\Users\LENOVO\Desktop\FINAL_PROJECT\FinalProject\bin\Debug\net5.0\FinalProject.pdb
+C:\Users\LENOVO\Desktop\FINAL_PROJECT\FinalProject\obj\Debug\net5.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\FINAL_PROJECT\FinalProject\obj\Debug\net5.0\FinalProject.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\FINAL_PROJECT\FinalProject\obj\Debug\net5.0\FinalProject.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\FINAL_PROJECT\FinalProject\obj\Debug\net5.0\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\FINAL_PROJECT\FinalProject\obj\Debug\net5.0\FinalProject.sourcelink.json
+C:\Users\LENOVO\Desktop\FINAL_PROJECT\FinalProject\obj\Debug\net5.0\FinalProject.dll
+C:\Users\LENOVO\Desktop\FINAL_PROJECT\FinalProject\obj\Debug\net5.0\refint\FinalProject.dll
+C:\Users\LENOVO\Desktop\FINAL_PROJECT\FinalProject\obj\Debug\net5.0\FinalProject.pdb
+C:\Users\LENOVO\Desktop\FINAL_PROJECT\FinalProject\obj\Debug\net5.0\FinalProject.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\FINAL_PROJECT\FinalProject\obj\Debug\net5.0\ref\FinalProject.dll

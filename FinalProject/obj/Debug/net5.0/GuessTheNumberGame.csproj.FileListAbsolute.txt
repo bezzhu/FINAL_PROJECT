@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\FINAL_PROJECT\FinalProject\bin\Debug\net5.0\GuessTheNumberGame.exe
+C:\Users\LENOVO\Desktop\FINAL_PROJECT\FinalProject\bin\Debug\net5.0\GuessTheNumberGame.deps.json
+C:\Users\LENOVO\Desktop\FINAL_PROJECT\FinalProject\bin\Debug\net5.0\GuessTheNumberGame.runtimeconfig.json
+C:\Users\LENOVO\Desktop\FINAL_PROJECT\FinalProject\bin\Debug\net5.0\GuessTheNumberGame.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\FINAL_PROJECT\FinalProject\bin\Debug\net5.0\GuessTheNumberGame.dll
+C:\Users\LENOVO\Desktop\FINAL_PROJECT\FinalProject\bin\Debug\net5.0\GuessTheNumberGame.pdb
+C:\Users\LENOVO\Desktop\FINAL_PROJECT\FinalProject\obj\Debug\net5.0\GuessTheNumberGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\FINAL_PROJECT\FinalProject\obj\Debug\net5.0\GuessTheNumberGame.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\FINAL_PROJECT\FinalProject\obj\Debug\net5.0\GuessTheNumberGame.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\FINAL_PROJECT\FinalProject\obj\Debug\net5.0\GuessTheNumberGame.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\FINAL_PROJECT\FinalProject\obj\Debug\net5.0\GuessTheNumberGame.sourcelink.json
+C:\Users\LENOVO\Desktop\FINAL_PROJECT\FinalProject\obj\Debug\net5.0\GuessTheNumberGame.dll
+C:\Users\LENOVO\Desktop\FINAL_PROJECT\FinalProject\obj\Debug\net5.0\refint\GuessTheNumberGame.dll
+C:\Users\LENOVO\Desktop\FINAL_PROJECT\FinalProject\obj\Debug\net5.0\GuessTheNumberGame.pdb
+C:\Users\LENOVO\Desktop\FINAL_PROJECT\FinalProject\obj\Debug\net5.0\GuessTheNumberGame.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\FINAL_PROJECT\FinalProject\obj\Debug\net5.0\ref\GuessTheNumberGame.dll

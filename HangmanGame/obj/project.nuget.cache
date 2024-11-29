@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rpq5BYcr3gsbIe6RPDlRMlAOF0M7o47LQm1Ot5DI+hNffV8GOgpUeDWVP35AN5bj1wSYxyzPV4y42a2mpcTjuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\FINAL_PROJECT\\HangmanGame\\HangmanGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
